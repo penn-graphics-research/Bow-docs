@@ -23,9 +23,16 @@ Overview
    diff_test
    debugging
    non_invertable_stepsize
+   time_integrator
 
 .. toctree::
    :maxdepth: 1
    :caption: MPM:
 
    sparse_grid
+
+.. toctree::
+   :maxdepth: 1
+   :caption: FEM:
+
+   frictions
